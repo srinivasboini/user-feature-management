@@ -5,9 +5,11 @@ Installation instructions
 i) Checkout the project to your local machine
 
 ii) open your terminal and exeucte below command to build the project
+
     ./mvnw clean install
     
 iii) go to target directory and run below command to start the application
+
     java -jar feature-0.0.1-SNAPSHOT.jar
     
 
