@@ -26,5 +26,7 @@ Application has swagger integrated already.Use below url to view swagger documen
     http://localhost:9999/swagger-ui/index.html
 
 
+Application uses H2 In-memory database. H2 console by default disabled when running in prod profile. If you want to view the db consle try to run the app in dev or test profile.Below is the url to access h2 consle.
 
+    http://localhost:9999/h2/
 
